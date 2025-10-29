@@ -1,8 +1,4 @@
-# GPS-Planner-Project
-Group project repository for Data Structures and Algorithms in Python. 
-
-
-# GPS Route Planner
+# Drive Route Planner
 ABET-Centric Group Project – Data Structures and Algorithms (Python)
 
 # Overview
