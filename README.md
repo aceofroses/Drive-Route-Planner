@@ -74,11 +74,10 @@ gps_route_planner/
 ```
 
 Team Roles
-- Member 1 – Requirements & Data: Define constraints, collect datasets
-- Member 2 – System Design: Core graph structure, architecture
-- Member 3 – Algorithm A: Dijkstra shortest-path implementation
-- Member 4 – Algorithm B: A* (A-Star) route planning implementation
-- Member 5 – Integration & Ethics: Testing, documentation, presentation
+- Member 1 – System Design: Core graph structure, architecture
+- Member 2 – Algorithm A: Dijkstra shortest-path implementation
+- Member 3 – Algorithm B: A* (A-Star) route planning implementation
+- Member 4 – Integration & Ethics: Testing, documentation, presentation
 
 # Getting Started
 
