@@ -38,7 +38,8 @@ The system should:
 - Team collaboration
 
 # Project Structure
-```gps_route_planner/
+```
+gps_route_planner/
 │
 ├── main.py (Entry point for program execution)
 │
@@ -73,41 +74,41 @@ The system should:
 ```
 
 Team Roles
-Member 1 – Requirements & Data: Define constraints, collect datasets
-Member 2 – System Design: Core graph structure, architecture
-Member 3 – Algorithm A: Dijkstra shortest-path implementation
-Member 4 – Algorithm B: A* (A-Star) route planning implementation
-Member 5 – Integration & Ethics: Testing, documentation, presentation
+- Member 1 – Requirements & Data: Define constraints, collect datasets
+- Member 2 – System Design: Core graph structure, architecture
+- Member 3 – Algorithm A: Dijkstra shortest-path implementation
+- Member 4 – Algorithm B: A* (A-Star) route planning implementation
+- Member 5 – Integration & Ethics: Testing, documentation, presentation
 
 # Getting Started
 
-Prerequisites
+Prerequisites:
 
-Python 3.9 or higher
+- Python 3.9 or higher
 
-Recommended editor: VS Code or JetBrains
+- Recommended editor: VS Code or JetBrains
 
-Installation Steps
+# Installation Steps
 
-Clone this repository:
-git clone https://github.com/
-aceofroses/gps-route-planner.git
-cd gps-route-planner
+## Clone this repository:
+ - git clone https://github.com/
+ - aceofroses/gps-route-planner.git
+ - cd gps-route-planner
 
-Create and activate a virtual environment:
-python -m venv venv
-source venv/bin/activate (macOS/Linux)
-venv\Scripts\activate (Windows)
+## Create and activate a virtual environment:
+  - python -m venv venv
+  - source venv/bin/activate (macOS/Linux)
+  - venv\Scripts\activate (Windows)
 
-Install dependencies (if any are listed in requirements.txt):
-pip install -r requirements.txt
+## Install dependencies (if any are listed in requirements.txt):
+  - pip install -r requirements.txt
 
-Running the Program
-Run the main program:
-python main.py
+  - Running the Program
+  - Run the main program:
+  - python main.py
 
-Execute tests:
-python -m unittest discover tests
+## Execute tests:
+  - python -m unittest discover tests
 
 # Collaboration Workflow
 
