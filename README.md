@@ -38,7 +38,7 @@ The system should:
 - Team collaboration
 
 # Project Structure
-gps_route_planner/
+```gps_route_planner/
 │
 ├── main.py (Entry point for program execution)
 │
@@ -70,6 +70,7 @@ gps_route_planner/
 ├── design_overview.md
 ├── algorithms.md
 └── testing_results.md
+```
 
 Team Roles
 Member 1 – Requirements & Data: Define constraints, collect datasets
